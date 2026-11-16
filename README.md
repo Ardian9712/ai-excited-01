@@ -1,6 +1,6 @@
-[![make.fun](https://img.shields.io/badge/make.fun-ai--excited--01-blue)](https://make.fun/bounty/ai-excited-01)
-[![Bounty](https://img.shields.io/badge/bounty-ai--excited--01-purple)](https://make.fun/bounty/ai-excited-01)
-[![Referral](https://img.shields.io/badge/referral-p8atzycs-green)](https://make.fun/bounty/ai-excited-01?ref=p8atzycs)
+[![make.fun](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01)
+[![Rank](https://make.fun/badge/ai-excited-01/Ardian9712/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01)
+[![Reward](https://make.fun/badge/ai-excited-01/Ardian9712/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01)
 
 # Ocean Above the Clouds
 
